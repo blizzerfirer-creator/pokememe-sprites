@@ -1,0 +1,1069 @@
+{
+  "animation_json": {
+    "files": [
+      {
+        "url": "assets/animations.json",
+        "type": "animation",
+        "key": "animations"
+      }
+    ]
+  },
+  "fonts": {
+    "files": [
+      {
+        "url": "assets/fronts/retro-pixel-arcade.otf.woff2",
+        "type": "font",
+        "key": "RetroPixel",
+        "fontType": "opentype"
+      },
+      {
+        "url": "assets/fronts/supercell-magic_0.ttf",
+        "type": "font",
+        "key": "SupercellMagic",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "tilemaps": {
+    "files": [
+      {
+        "type": "tilemapTiledJSON",
+        "key": "satoshi_town_map",
+        "url": "https://cdn-game-mcp.gambo.ai/6a708607-a166-47c0-bc0b-fc6336774d7b/tile_maps/satoshi_town_map.json"
+      }
+    ]
+  },
+  "tilesets": {
+    "files": [
+      {
+        "type": "image",
+        "key": "satoshi_town_ground",
+        "url": "https://cdn-game-mcp.gambo.ai/dd528896-0646-452a-9a81-4f8e12f3ab86/tilesets/satoshi_town_ground.png"
+      },
+      {
+        "type": "image",
+        "key": "satoshi_town_overlay",
+        "url": "https://cdn-game-mcp.gambo.ai/e85520f7-e476-4ea0-a8a1-40cb988acbcd/tilesets/satoshi_town_overlay.png"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "pokememe_title",
+        "url": "https://cdn-game-mcp.gambo.ai/718b0228-dc2d-4b8c-9065-922c2ede5344/images/pokememe_title.png"
+      },
+      {
+        "type": "image",
+        "key": "cryptosphere_item",
+        "url": "https://cdn-game-mcp.gambo.ai/d4d98163-b0f4-455f-a994-a53d46532d9f/images/cryptosphere_item.png"
+      }
+    ]
+  },
+  "pokememe_sprites": {
+    "files": [
+      {
+        "type": "image",
+        "key": "battle_background_grass",
+        "url": "https://cdn-game-mcp.gambo.ai/e2b04f42-3f86-4e48-a36f-8915843f15d9/images/battle_background_grass.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_001_pepasaur",
+        "url": "assets/pokememe_sprites/001_pepasaur.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_002_pepysaur",
+        "url": "assets/pokememe_sprites/002_pepysaur.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_003_pepusaur",
+        "url": "assets/pokememe_sprites/003_pepusaur.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_004_bonkander",
+        "url": "assets/pokememe_sprites/004_bonkander.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_005_bonkeleon",
+        "url": "assets/pokememe_sprites/005_bonkeleon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_006_bonkizard",
+        "url": "assets/pokememe_sprites/006_bonkizard.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_007_dogetle",
+        "url": "assets/pokememe_sprites/007_dogetle.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_008_dogetortle",
+        "url": "assets/pokememe_sprites/008_dogetortle.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_009_dogetoise",
+        "url": "assets/pokememe_sprites/009_dogetoise.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_010_trollpie",
+        "url": "assets/pokememe_sprites/010_trollpie.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_011_trollpod",
+        "url": "assets/pokememe_sprites/011_trollpod.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_012_trollfree",
+        "url": "assets/pokememe_sprites/012_trollfree.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_013_skibeedle",
+        "url": "assets/pokememe_sprites/013_skibeedle.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_014_skibuna",
+        "url": "assets/pokememe_sprites/014_skibuna.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_015_skibidrill",
+        "url": "assets/pokememe_sprites/015_skibidrill.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_016_hawkey",
+        "url": "assets/pokememe_sprites/016_hawkey.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_017_hawkotto",
+        "url": "assets/pokememe_sprites/017_hawkotto.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_018_hawkot",
+        "url": "assets/pokememe_sprites/018_hawkot.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_019_cheematta",
+        "url": "assets/pokememe_sprites/019_cheematta.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_020_cheemicate",
+        "url": "assets/pokememe_sprites/020_cheemicate.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_021_amogrow",
+        "url": "assets/pokememe_sprites/021_amogrow.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_022_amogrrow",
+        "url": "assets/pokememe_sprites/022_amogrrow.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_023_rickans",
+        "url": "assets/pokememe_sprites/023_rickans.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_024_rickarbok",
+        "url": "assets/pokememe_sprites/024_rickarbok.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_025_shibachu",
+        "url": "assets/pokememe_sprites/025_shibachu.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_026_shibchu",
+        "url": "assets/pokememe_sprites/026_shibchu.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_027_wifshrew",
+        "url": "assets/pokememe_sprites/027_wifshrew.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_028_wifslash",
+        "url": "assets/pokememe_sprites/028_wifslash.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_029_nyanoran",
+        "url": "assets/pokememe_sprites/029_nyanoran.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_030_nyanorina",
+        "url": "assets/pokememe_sprites/030_nyanorina.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_031_nyanoqueen",
+        "url": "assets/pokememe_sprites/031_nyanoqueen.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_032_chadoran",
+        "url": "assets/pokememe_sprites/032_chadoran.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_033_chadorino",
+        "url": "assets/pokememe_sprites/033_chadorino.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_034_chadoking",
+        "url": "assets/pokememe_sprites/034_chadoking.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_035_ponkefairy",
+        "url": "assets/pokememe_sprites/035_ponkefairy.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_036_ponkeable",
+        "url": "assets/pokememe_sprites/036_ponkeable.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_037_popcatix",
+        "url": "assets/pokememe_sprites/037_popcatix.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_038_popcatales",
+        "url": "assets/pokememe_sprites/038_popcatales.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_039_bongopuff",
+        "url": "assets/pokememe_sprites/039_bongopuff.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_040_bongotuff",
+        "url": "assets/pokememe_sprites/040_bongotuff.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_041_coffinbat",
+        "url": "assets/pokememe_sprites/041_coffinbat.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_042_coffingol",
+        "url": "assets/pokememe_sprites/042_coffingol.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_043_fartish",
+        "url": "assets/pokememe_sprites/043_fartish.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_044_fartoom",
+        "url": "assets/pokememe_sprites/044_fartoom.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_045_fartplume",
+        "url": "assets/pokememe_sprites/045_fartplume.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_046_coparas",
+        "url": "assets/pokememe_sprites/046_coparas.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_047_copesect",
+        "url": "assets/pokememe_sprites/047_copesect.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_048_npcnat",
+        "url": "assets/pokememe_sprites/048_npcnat.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_049_npcmoth",
+        "url": "assets/pokememe_sprites/049_npcmoth.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_050_moglett",
+        "url": "assets/pokememe_sprites/050_moglett.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_051_mogtrio",
+        "url": "assets/pokememe_sprites/051_mogtrio.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_052_keybowth",
+        "url": "assets/pokememe_sprites/052_keybowth.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_053_keypersian",
+        "url": "assets/pokememe_sprites/053_keypersian.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_054_stonkduck",
+        "url": "assets/pokememe_sprites/054_stonkduck.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_055_stonkgolduck",
+        "url": "assets/pokememe_sprites/055_stonkgolduck.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_056_harambkey",
+        "url": "assets/pokememe_sprites/056_harambkey.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_057_harimape",
+        "url": "assets/pokememe_sprites/057_harimape.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_058_flokilithe",
+        "url": "assets/pokememe_sprites/058_flokilithe.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_059_flokanine",
+        "url": "assets/pokememe_sprites/059_flokanine.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_060_finewag",
+        "url": "assets/pokememe_sprites/060_finewag.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_061_finewhirl",
+        "url": "assets/pokememe_sprites/061_finewhirl.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_062_finewrath",
+        "url": "assets/pokememe_sprites/062_finewrath.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_063_sigbra",
+        "url": "assets/pokememe_sprites/063_sigbra.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_064_sigdabra",
+        "url": "assets/pokememe_sprites/064_sigdabra.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_065_sigmazam",
+        "url": "assets/pokememe_sprites/065_sigmazam.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_066_buffchop",
+        "url": "assets/pokememe_sprites/066_buffchop.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_067_buffchoke",
+        "url": "assets/pokememe_sprites/067_buffchoke.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_068_buffchamp",
+        "url": "assets/pokememe_sprites/068_buffchamp.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_069_grassprout",
+        "url": "assets/pokememe_sprites/069_grassprout.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_070_grassbell",
+        "url": "assets/pokememe_sprites/070_grassbell.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_071_grassbel",
+        "url": "assets/pokememe_sprites/071_grassbel.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_072_brettacool",
+        "url": "assets/pokememe_sprites/072_brettacool.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_073_brettacruel",
+        "url": "assets/pokememe_sprites/073_brettacruel.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_074_diamondude",
+        "url": "assets/pokememe_sprites/074_diamondude.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_075_diamondler",
+        "url": "assets/pokememe_sprites/075_diamondler.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_076_diamondem",
+        "url": "assets/pokememe_sprites/076_diamondem.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_077_degenyta",
+        "url": "assets/pokememe_sprites/077_degenyta.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_078_degendash",
+        "url": "assets/pokememe_sprites/078_degendash.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_079_haroldpoke",
+        "url": "assets/pokememe_sprites/079_haroldpoke.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_080_haroldbro",
+        "url": "assets/pokememe_sprites/080_haroldbro.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_081_myromite",
+        "url": "assets/pokememe_sprites/081_myromite.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_082_myroton",
+        "url": "assets/pokememe_sprites/082_myroton.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_083_datboi",
+        "url": "assets/pokememe_sprites/083_datboi.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_084_bomeduo",
+        "url": "assets/pokememe_sprites/084_bomeduo.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_085_bomedrio",
+        "url": "assets/pokememe_sprites/085_bomedrio.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_086_pudgyseel",
+        "url": "assets/pokememe_sprites/086_pudgyseel.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_087_pudgygong",
+        "url": "assets/pokememe_sprites/087_pudgygong.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_088_susmer",
+        "url": "assets/pokememe_sprites/088_susmer.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_089_sussymuk",
+        "url": "assets/pokememe_sprites/089_sussymuk.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_090_slaylder",
+        "url": "assets/pokememe_sprites/090_slaylder.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_091_slayster",
+        "url": "assets/pokememe_sprites/091_slayster.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_092_forgostly",
+        "url": "assets/pokememe_sprites/092_forgostly.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_093_forghaunter",
+        "url": "assets/pokememe_sprites/093_forghaunter.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_094_forgengar",
+        "url": "assets/pokememe_sprites/094_forgengar.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_095_longonix",
+        "url": "assets/pokememe_sprites/095_longonix.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_096_rizzy",
+        "url": "assets/pokememe_sprites/096_rizzy.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_097_rizzno",
+        "url": "assets/pokememe_sprites/097_rizzno.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_098_ravebby",
+        "url": "assets/pokememe_sprites/098_ravebby.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_099_raveking",
+        "url": "assets/pokememe_sprites/099_raveking.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_100_hodlorb",
+        "url": "assets/pokememe_sprites/100_hodlorb.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_101_hodltrode",
+        "url": "assets/pokememe_sprites/101_hodltrode.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_102_monkegg",
+        "url": "assets/pokememe_sprites/102_monkegg.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_103_monkegutor",
+        "url": "assets/pokememe_sprites/103_monkegutor.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_104_soybone",
+        "url": "assets/pokememe_sprites/104_soybone.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_105_soywak",
+        "url": "assets/pokememe_sprites/105_soywak.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_106_pogmonlee",
+        "url": "assets/pokememe_sprites/106_pogmonlee.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_107_basedchan",
+        "url": "assets/pokememe_sprites/107_basedchan.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_108_lickigoat",
+        "url": "assets/pokememe_sprites/108_lickigoat.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_109_cappfing",
+        "url": "assets/pokememe_sprites/109_cappfing.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_110_capzing",
+        "url": "assets/pokememe_sprites/110_capzing.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_111_trumphorn",
+        "url": "assets/pokememe_sprites/111_trumphorn.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_112_trumpdon",
+        "url": "assets/pokememe_sprites/112_trumpdon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_113_wholesey",
+        "url": "assets/pokememe_sprites/113_wholesey.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_114_wentangle",
+        "url": "assets/pokememe_sprites/114_wentangle.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_115_karen_mom",
+        "url": "assets/pokememe_sprites/115_karen_mom.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_116_slerfea",
+        "url": "assets/pokememe_sprites/116_slerfea.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_117_slerfadra",
+        "url": "assets/pokememe_sprites/117_slerfadra.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_118_ratiodeen",
+        "url": "assets/pokememe_sprites/118_ratiodeen.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_119_ratioking",
+        "url": "assets/pokememe_sprites/119_ratioking.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_120_galaxyu",
+        "url": "assets/pokememe_sprites/120_galaxyu.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_121_galaxmie",
+        "url": "assets/pokememe_sprites/121_galaxmie.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_122_mr__ligma",
+        "url": "assets/pokememe_sprites/122_mr__ligma.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_123_ohiother",
+        "url": "assets/pokememe_sprites/123_ohiother.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_124_bruhjynx",
+        "url": "assets/pokememe_sprites/124_bruhjynx.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_125_pnutbuzz",
+        "url": "assets/pokememe_sprites/125_pnutbuzz.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_126_michimarr",
+        "url": "assets/pokememe_sprites/126_michimarr.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_127_deezir",
+        "url": "assets/pokememe_sprites/127_deezir.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_128_wagmauros",
+        "url": "assets/pokememe_sprites/128_wagmauros.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_129_glowkarp",
+        "url": "assets/pokememe_sprites/129_glowkarp.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_130_glowados",
+        "url": "assets/pokememe_sprites/130_glowados.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_131_chillpras",
+        "url": "assets/pokememe_sprites/131_chillpras.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_132_deepfake",
+        "url": "assets/pokememe_sprites/132_deepfake.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_133_wojakeon",
+        "url": "assets/pokememe_sprites/133_wojakeon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_134_doomereon",
+        "url": "assets/pokememe_sprites/134_doomereon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_135_zoomereon",
+        "url": "assets/pokememe_sprites/135_zoomereon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_136_bloomereon",
+        "url": "assets/pokememe_sprites/136_bloomereon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_137_glitchgon",
+        "url": "assets/pokememe_sprites/137_glitchgon.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_138_helixyte",
+        "url": "assets/pokememe_sprites/138_helixyte.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_139_helixstar",
+        "url": "assets/pokememe_sprites/139_helixstar.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_140_dometop",
+        "url": "assets/pokememe_sprites/140_dometop.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_141_domeblade",
+        "url": "assets/pokememe_sprites/141_domeblade.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_142_gambadactyl",
+        "url": "assets/pokememe_sprites/142_gambadactyl.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_143_snarlax",
+        "url": "assets/pokememe_sprites/143_snarlax.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_144_dripcuno",
+        "url": "assets/pokememe_sprites/144_dripcuno.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_145_bussindos",
+        "url": "assets/pokememe_sprites/145_bussindos.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_146_litres",
+        "url": "assets/pokememe_sprites/146_litres.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_147_raretini",
+        "url": "assets/pokememe_sprites/147_raretini.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_148_rareair",
+        "url": "assets/pokememe_sprites/148_rareair.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_149_rarenite",
+        "url": "assets/pokememe_sprites/149_rarenite.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_150_ggtwo",
+        "url": "assets/pokememe_sprites/150_ggtwo.png"
+      },
+      {
+        "type": "image",
+        "key": "pokememe_151_ogmew",
+        "url": "assets/pokememe_sprites/151_ogmew.png"
+      }
+    ]
+  },
+  "trainer_animations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "meme_trainer_idle_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/3a9d88ca-6551-4f2f-86b0-aec11c8d49f8/animations/meme_trainer_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_idle_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/731a4767-d381-4803-bacc-64b10e66a132/animations/meme_trainer_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_idle_R_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/786d26eb-5062-495a-b4cf-e75a5fb6d596/animations/meme_trainer_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_idle_R_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/3a4231ae-0796-4bfd-8dc6-103acdb0d346/animations/meme_trainer_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_idle_back_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/bd6776e1-5acd-476c-bc17-27afbf42b724/animations/meme_trainer_idle_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_idle_back_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/69bae417-fef2-4fff-83f4-66982818d52e/animations/meme_trainer_idle_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_walk_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/99416f0a-1418-43e8-836d-fa8f0602538e/animations/meme_trainer_walk_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_walk_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/99416f0a-1418-43e8-836d-fa8f0602538e/animations/meme_trainer_walk_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_walk_R_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/d0f35ebd-bda3-43e0-99ac-fdd1ea4145d3/animations/meme_trainer_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_walk_R_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/d0f35ebd-bda3-43e0-99ac-fdd1ea4145d3/animations/meme_trainer_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_walk_back_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/903c5733-e799-4b85-a0a1-561e8edc6dd2/animations/meme_trainer_walk_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "meme_trainer_walk_back_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/903c5733-e799-4b85-a0a1-561e8edc6dd2/animations/meme_trainer_walk_back/frame_2.png"
+      }
+    ]
+  },
+  "decorations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "town_tree_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/2be93257-e14b-498a-aaf0-8460f9610f5f/images/town_tree/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "town_tree_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/a402dfb3-ea1f-4d7c-ad0a-589b7af113c9/images/town_tree/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "town_tree_variant_3",
+        "url": "https://cdn-game-mcp.gambo.ai/45739f71-430c-4f7b-8d8b-94b74422295c/images/town_tree/variant_3.png"
+      },
+      {
+        "type": "image",
+        "key": "town_tree_variant_4",
+        "url": "https://cdn-game-mcp.gambo.ai/382e69bd-ac79-4e94-b0e1-b18ee39ac5c6/images/town_tree/variant_4.png"
+      },
+      {
+        "type": "image",
+        "key": "town_tree_variant_5",
+        "url": "https://cdn-game-mcp.gambo.ai/aa97d23d-7b0a-4f87-a97b-4534b73eec57/images/town_tree/variant_5.png"
+      },
+      {
+        "type": "image",
+        "key": "town_flower_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/2e77e6fe-9d88-444c-84c7-67ba97092072/images/town_flower/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "town_flower_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/6d9b234d-8e92-4d27-89e2-6b85ddf9fd1c/images/town_flower/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "town_flower_variant_3",
+        "url": "https://cdn-game-mcp.gambo.ai/0026937d-e109-4647-8a69-083dc26039ba/images/town_flower/variant_3.png"
+      },
+      {
+        "type": "image",
+        "key": "town_flower_variant_4",
+        "url": "https://cdn-game-mcp.gambo.ai/ab9819ae-f483-4f5c-a5f8-779d88ee6a92/images/town_flower/variant_4.png"
+      },
+      {
+        "type": "image",
+        "key": "town_flower_variant_5",
+        "url": "https://cdn-game-mcp.gambo.ai/9a568eb3-7b94-47df-9268-a18ab44bdda8/images/town_flower/variant_5.png"
+      },
+      {
+        "type": "image",
+        "key": "town_bush_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/626380bb-8e17-4e96-9bee-0944dd8d95ec/images/town_bush/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "town_bush_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/88d7a35d-542f-46d7-b067-360cdd130f2c/images/town_bush/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "town_bush_variant_3",
+        "url": "https://cdn-game-mcp.gambo.ai/7f52f1c5-1caf-4d3c-a73f-6cf56bae565f/images/town_bush/variant_3.png"
+      },
+      {
+        "type": "image",
+        "key": "town_bush_variant_4",
+        "url": "https://cdn-game-mcp.gambo.ai/3b16cb1c-565a-4d2b-a6ae-3fd8163ca00a/images/town_bush/variant_4.png"
+      },
+      {
+        "type": "image",
+        "key": "town_bush_variant_5",
+        "url": "https://cdn-game-mcp.gambo.ai/cb529662-6a6c-4785-b6b3-934c3770bab0/images/town_bush/variant_5.png"
+      },
+      {
+        "type": "image",
+        "key": "town_sign_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/ed9ef804-de23-451b-b329-ba651fdc986c/images/town_sign/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "town_sign_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/8912160d-3bb2-4f93-8855-a61a5350c4c9/images/town_sign/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "town_sign_variant_3",
+        "url": "https://cdn-game-mcp.gambo.ai/fa0bc3e2-3da1-4035-8ec1-10bd9d26d176/images/town_sign/variant_3.png"
+      },
+      {
+        "type": "image",
+        "key": "town_lamp_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/8fae4b14-46fa-46bd-9abc-ad9bde61065a/images/town_lamp/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "town_lamp_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/3c22c380-cfa1-4909-8821-f999559f61c0/images/town_lamp/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "town_lamp_variant_3",
+        "url": "https://cdn-game-mcp.gambo.ai/d83000cb-28b2-43fb-a565-d7bff501dd57/images/town_lamp/variant_3.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "ui_click",
+        "url": "https://cdn-game-mcp.gambo.ai/b4b0bd38-3b7c-49fc-81ce-acf3177f7c10/sound_effects/ui_click.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ui_confirm",
+        "url": "https://cdn-game-mcp.gambo.ai/8341d9ed-2853-44cf-8404-cbba49d21e1c/sound_effects/ui_confirm.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "battle_start",
+        "url": "https://cdn-game-mcp.gambo.ai/0ae16621-d809-472b-b332-401f0a2ae74d/sound_effects/battle_start.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "catch_success",
+        "url": "https://cdn-game-mcp.gambo.ai/0799d46d-02b0-4e32-ba11-ef6a7cd1f7da/sound_effects/catch_success.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "level_up",
+        "url": "https://cdn-game-mcp.gambo.ai/01b66df7-b518-4713-a074-106aa6f9b604/sound_effects/level_up.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "hit_damage",
+        "url": "https://cdn-game-mcp.gambo.ai/9a99de47-4bc1-4215-98af-c9ca56fd1da1/sound_effects/hit_damage.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "critical_hit",
+        "url": "https://cdn-game-mcp.gambo.ai/bf0e2eee-7728-4749-8840-6a052e34a509/sound_effects/critical_hit.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "heal_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/354eb223-7c45-4332-ab66-a66423fe2f4f/sound_effects/heal_sound.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "satoshi_town_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/c3dc340d-6acf-42e2-92f1-6c9fa2b0618d/music/satoshi_town_theme.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "wild_battle_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/38d60a41-0a6a-4776-810c-a21db8280737/music/wild_battle_theme.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "pvp_battle_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/fcc06739-529c-4663-8886-017a87867fa7/music/pvp_battle_theme.mp3"
+      }
+    ]
+  },
+  "meta": {
+    "app": "PokeMeme MMO",
+    "version": 1,
+    "showAllFilesInBlocks": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "anims": [
+    {
+      "key": "meme_trainer_idle_front",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "meme_trainer_idle_front_frame1",
+          "duration": 800
+        },
+        {
+          "key": "meme_trainer_idle_front_frame2",
+          "duration": 800
+        }
+      ],
+      "repeat": -1,
+      "originX": 0.5,
+      "originY": 1.0
+    },
+    {
+      "key": "meme_trainer_idle_R",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "meme_trainer_idle_R_frame1",
+          "duration": 800
+        },
+        {
+          "key": "meme_trainer_idle_R_frame2",
+          "duration": 800
+        }
+      ],
+      "repeat": -1,
+      "originX": 0.5,
+      "originY": 1.0
+    },
+    {
+      "key": "meme_trainer_idle_back",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "meme_trainer_idle_back_frame1",
+          "duration": 800
+        },
+        {
+          "key": "meme_trainer_idle_back_frame2",
+          "duration": 800
+        }
+      ],
+      "repeat": -1,
+      "originX": 0.5,
+      "originY": 1.0
+    },
+    {
+      "key": "meme_trainer_walk_front",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "meme_trainer_walk_front_frame1",
+          "duration": 300
+        },
+        {
+          "key": "meme_trainer_walk_front_frame2",
+          "duration": 300
+        }
+      ],
+      "repeat": -1,
+      "originX": 0.5,
+      "originY": 1.0
+    },
+    {
+      "key": "meme_trainer_walk_R",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "meme_trainer_walk_R_frame1",
+          "duration": 300
+        },
+        {
+          "key": "meme_trainer_walk_R_frame2",
+          "duration": 300
+        }
+      ],
+      "repeat": -1,
+      "originX": 0.5,
+      "originY": 1.0
+    },
+    {
+      "key": "meme_trainer_walk_back",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "meme_trainer_walk_back_frame1",
+          "duration": 300
+        },
+        {
+          "key": "meme_trainer_walk_back_frame2",
+          "duration": 300
+        }
+      ],
+      "repeat": -1,
+      "originX": 0.5,
+      "originY": 1.0
+    }
+  ]
+}
